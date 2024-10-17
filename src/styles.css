@@ -9,7 +9,7 @@ a {
 }
 
 .weather-app {
-  background: rgb(92, 109, 126);
+  background: skyblue;
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
